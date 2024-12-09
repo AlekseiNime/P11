@@ -1,0 +1,7 @@
+D:\Програмные коды\P11\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Програмные коды\P11\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Програмные коды\P11\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Програмные коды\P11\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Програмные коды\P11\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Програмные коды\P11\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Програмные коды\P11\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
